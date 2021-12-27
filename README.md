@@ -1,5 +1,5 @@
 # JsPsych_tutorials
-This is a repository created to run JsPsych tutorials and store some requently-used information on JsPsych.
+This is a repository created to store JsPsych tutorials and store some requently-used information on JsPsych.
 
 Popular Plugins
 ---
