@@ -1,11 +1,11 @@
 # JsPsych_tutorials
-This is a repository created to store JsPsych tutorials and store some frequently-used information of JsPsych.
+This is a repository created to store JsPsych tutorials and some frequently-used information.
 
-Versions 
+Download JsPsych 
 ---
 [v6.3.1 package](https://github.com/HelenLiu0609/jsPsych-v6.3.1) 
 
-A storage of jsPsych `6.3.1`
+We also enclosed psychophysics-2.3.4 in the package.
 
 Popular Plugins
 ---
