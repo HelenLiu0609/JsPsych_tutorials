@@ -7,6 +7,7 @@ Download JsPsych
 
 We enclosed psychophysics-2.3.4 plugin in the package.
 
+We recommend using [VSCode](https://code.visualstudio.com) for code editing.
 
 Citation
 --------
